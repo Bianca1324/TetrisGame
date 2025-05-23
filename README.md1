@@ -30,5 +30,18 @@ This is a Tetris game developed using Python with Pygame and OpenCV. The game in
 - Camera initialization may fail if no webcam is detected.
 - Sound files may not load if paths are incorrect.
 
+## Controls 🎮
+
+### Keyboard:
+- ⬅️ / ➡️ – Move piece left/right
+- ⬇️ – Hard drop
+- ⬆️ – Rotate piece
+- Esc – Quit
+
+### Camera-based (with object tracking):
+- Move pink object left/right – Moves piece
+- Rotate object – Rotates piece
+
+
 ## Disclaimer
 This project is the result of a laboratory assignment for PA (Algorithm Design) at FACE (http://ace.ucv.ro/). It is submitted for educational purposes only.
