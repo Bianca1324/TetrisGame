@@ -35,4 +35,4 @@ This project is the result of a laboratory assignment for PA (Algorithm Design) 
 
 ## Previzualizare temă
 
-![Alege tema](assets/tema_preview.png)
+![Image](https://github.com/user-attachments/assets/3c80350f-0ec5-4e5c-9ab6-76a647777651)
