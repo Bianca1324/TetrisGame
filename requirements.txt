@@ -1,3 +1,5 @@
-pygame
-opencv-python
-numpy
+- Python 3.x
+- Pygame
+- OpenCV 
+- NumPy
+- SQLite 
