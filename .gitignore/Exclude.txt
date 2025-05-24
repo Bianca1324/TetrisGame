@@ -1,0 +1,7 @@
+# Exclude PyCharm configuration files
+.idea/
+
+# Exclude user-generated data files
+highscore.txt
+player_name.txt
+tetris.db
