@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9b1f9d0-2d36-49c3-a1d6-87f8ef8dbdbc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tetris.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2v5ynST23cNDsBVdTtT3IdvzCcW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cam.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gesturi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_db.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tetris.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bianc/OneDrive/Desktop/PythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9b1f9d0-2d36-49c3-a1d6-87f8ef8dbdbc" name="Changes" comment="" />
+      <created>1743449395522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743449395522</updated>
+      <workItem from="1743449396590" duration="187000" />
+      <workItem from="1743490064709" duration="5376000" />
+      <workItem from="1743495609181" duration="2000" />
+      <workItem from="1743495642015" duration="3647000" />
+      <workItem from="1743499320706" duration="1200000" />
+      <workItem from="1743518691694" duration="522000" />
+      <workItem from="1743520001819" duration="5430000" />
+      <workItem from="1743530892234" duration="212000" />
+      <workItem from="1743536570755" duration="313000" />
+      <workItem from="1743579801740" duration="917000" />
+      <workItem from="1743580738471" duration="20000" />
+      <workItem from="1743585540936" duration="3034000" />
+      <workItem from="1743598508766" duration="1033000" />
+      <workItem from="1743703984355" duration="7073000" />
+      <workItem from="1743835685065" duration="809000" />
+      <workItem from="1743888384810" duration="44000" />
+      <workItem from="1744123872497" duration="6569000" />
+      <workItem from="1744131907791" duration="55000" />
+      <workItem from="1744146073784" duration="270000" />
+      <workItem from="1744182735130" duration="290000" />
+      <workItem from="1744190343365" duration="3300000" />
+      <workItem from="1744640818583" duration="50000" />
+      <workItem from="1744733182226" duration="9864000" />
+      <workItem from="1744784439198" duration="3608000" />
+      <workItem from="1744794846531" duration="2673000" />
+      <workItem from="1745844105768" duration="19462000" />
+      <workItem from="1745986555538" duration="6503000" />
+      <workItem from="1746004638038" duration="2058000" />
+      <workItem from="1746128716347" duration="8000" />
+      <workItem from="1746129459291" duration="7000" />
+      <workItem from="1746598107807" duration="12575000" />
+      <workItem from="1746643491216" duration="3423000" />
+      <workItem from="1746651710062" duration="2679000" />
+      <workItem from="1746667981049" duration="1410000" />
+      <workItem from="1747205291251" duration="967000" />
+      <workItem from="1747242652982" duration="551000" />
+      <workItem from="1747453764428" duration="451000" />
+      <workItem from="1747806797945" duration="2764000" />
+      <workItem from="1748058595499" duration="9885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject_iml$tetris.coverage" NAME="tetris Coverage Results" MODIFIED="1748071674085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main.py" />
+    <SUITE FILE_PATH="coverage/PythonProject_iml$cam_test.coverage" NAME="cam.test Coverage Results" MODIFIED="1745960577457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_iml$bd.coverage" NAME="bd Coverage Results" MODIFIED="1744788008058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1743449420536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_iml$gesturi.coverage" NAME="gesturi Coverage Results" MODIFIED="1745945499349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject_iml$test_db.coverage" NAME="test_db Coverage Results" MODIFIED="1745852898892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
