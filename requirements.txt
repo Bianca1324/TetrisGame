@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 pygame
 opencv-python
 numpy
+=======
+- Python 3.x
+- Pygame
+- OpenCV 
+- NumPy
+- SQLite 
+>>>>>>> fdc47263d08e6af8c4a4a97e74c749a7eb48ff49

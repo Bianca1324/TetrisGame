@@ -1,0 +1,53 @@
+TETRIS GAME 🧩🎮
+
+This is a Tetris game developed using Python with Pygame and OpenCV. The game includes customizable themes, camera-based controls, particle effects, sound effects, and a SQLite database for storing scores and statistics.
+
+## Features ✨✅
+- Selectable difficulty levels (Easy, Medium, Hard).
+- Customizable visual themes (e.g., space, jungle).
+- Camera-based control using OpenCV (detecting pink objects).
+- Visual effects for line clears.
+- Score and statistics storage (games played, total time).
+- Sound effects for actions (move, rotate, line clear). 🔊
+
+## Requirements
+- Python 3.8+
+- Libraries: `pygame`, `opencv-python`, `numpy`
+- A webcam (optional, for camera control)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Bianca1324/TetrisGame.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the game:
+   python main.py
+
+
+## Known Issues ❌
+- Camera initialization may fail if no webcam is detected.
+- Sound files may not load if paths are incorrect.
+
+## Controls 🎮
+
+### Keyboard:
+- ⬅️ / ➡️ – Move piece left/right
+- ⬇️ – Hard drop
+- ⬆️ – Rotate piece
+- Esc – Quit
+
+### Camera-based (with object tracking):
+- Move pink object left/right – Moves piece
+- Rotate object – Rotates piece
+
+
+## Disclaimer
+This project is the result of a laboratory assignment for PA (Algorithm Design) at FACE (http://ace.ucv.ro/). It is submitted for educational purposes only.
+
+
+## Previzualizare temă
+
+![Alege tema](assets/tema_preview.png)
+
