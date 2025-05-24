@@ -116,7 +116,7 @@
       <workItem from="1747242652982" duration="551000" />
       <workItem from="1747453764428" duration="451000" />
       <workItem from="1747806797945" duration="2764000" />
-      <workItem from="1748058595499" duration="9885000" />
+      <workItem from="1748058595499" duration="17564000" />
     </task>
     <servers />
   </component>
@@ -124,7 +124,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject_iml$tetris.coverage" NAME="tetris Coverage Results" MODIFIED="1748071674085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main.py" />
+    <SUITE FILE_PATH="coverage/PythonProject_iml$tetris.coverage" NAME="tetris Coverage Results" MODIFIED="1748083128112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main.py" />
     <SUITE FILE_PATH="coverage/PythonProject_iml$cam_test.coverage" NAME="cam.test Coverage Results" MODIFIED="1745960577457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject_iml$bd.coverage" NAME="bd Coverage Results" MODIFIED="1744788008058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1743449420536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
